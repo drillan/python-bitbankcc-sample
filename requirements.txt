@@ -1,0 +1,5 @@
+jupyter-book
+nbformat
+pandas
+requests
+git+https://github.com/bitbankinc/python-bitbankcc
